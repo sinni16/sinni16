@@ -8,7 +8,7 @@
 
 
 <h2>Contact & Channel</h2>
-- Email : god2_016@naver.com
+- Email : sinniq1@gmail.com
 
 <h2>Skills</h2>
 
