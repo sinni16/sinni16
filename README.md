@@ -8,6 +8,7 @@
 
 
 <h2>Contact & Channel</h2>
+
 - Email : sinniq1@gmail.com
 
 <h2>Skills</h2>
