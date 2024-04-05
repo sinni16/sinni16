@@ -4,4 +4,6 @@
 - 모두가 쉽게 이해할 수 있는 코드를 만들고자 끊임없이 고민하고 있습니다. 
 
 
+
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=see030)](https://solved.ac/see030)
