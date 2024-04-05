@@ -30,25 +30,36 @@
 
 <h2> 📚 프로젝트</h2>
 
-<h3>도시락 추천 서비스</h3>
-
+<h2> 도비스</h2>
+2024. 02. 23~ 2024. 04. 05 
+<br>
+<h3>프로젝트 설명</h3>
 <ul>
-  <li> 기간 : 2024. 02. 23~ 2024. 04. 05 </li>
-  <li> 프로젝트명 : 도비스 </li>
-  <li> 도시락 가격과 식재료 가격을 제공해주는 도시락 가이드 서비스 </li>
-  <li> DB, Back-End 담당 (인원 : 4명)</li>
+ <li> 도시락 가격과 식재료 가격을 제공해주는 도시락 가이드 서비스 </li>
+  <li>https://github.com/sinni16/BSIL.X</li>
+  <li>인원 : 4명</li>
+ </ul>
+<h3>역할 : DB, Back-End</h3>
+<ul>
   <li> DB 설계 및 구축 </li>
   <li> chart.js를 이용한 차트 구현 </li>
   <li> 비동기 통신을 이용한 즐겨찾기 기능 구현 </li>
-  <li>https://github.com/sinni16/BSIL.X</li>
+ </ul>
+  
 </ul>
 
-<h2> 모의주식 투자 게임</h2>
+<h2> 개미는 뚠뚠 </h2>
+2024. 01. 31 ~ 2024. 02. 02
+<br>
+<h3> 프로젝트 설명 </h3>
 <ul>
-   <li> 기간 : 2024. 01. 31 ~ 2024. 02. 02</li>
-   <li> 프로젝트명 : 개미는 뚠뚠</li>
-   <li> DB 설계 및 구축, controller 구현 (인원 : 4명) </li>
-  <li> https://github.com/sinni16/FFRepo</li>
+<li> 모의주식 투자 게임</li>
+<li> https://github.com/sinni16/FFRepo </li>
+  <li>인원 : 4명</li>
+</ul>
+<h3>역할 : Back-End, DB</h3>
+   <li> DB 설계 및 구축 </li>
+   <li>controller 구현 </li>
 </ul>
 
 
