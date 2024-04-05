@@ -28,11 +28,13 @@
 <b>Database</b> <br>
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
 
-<h1> 📚 프로젝트</h1>
+<h2> 📚 프로젝트</h2>
 
-<h2>도비스</h2>
+<h3>도시락 추천 서비스</h3>
+
 <ul>
   <li> 기간 : 2024. 02. 23~ 2024. 04. 05 </li>
+  <li> 프로젝트명 : 도비스 </li>
   <li> 도시락 가격과 식재료 가격을 제공해주는 도시락 가이드 서비스 </li>
   <li> DB, Back-End 담당 (인원 : 4명)</li>
   <li> DB 설계 및 구축 </li>
@@ -41,10 +43,10 @@
   <li>https://github.com/sinni16/BSIL.X</li>
 </ul>
 
-<h2>개미는 뚠뚠</h2>
+<h2> 모의주식 투자 게임</h2>
 <ul>
    <li> 기간 : 2024. 01. 31 ~ 2024. 02. 02</li>
-   <li> 모의주식 투자 게임</li>
+   <li> 프로젝트명 : 개미는 뚠뚠</li>
    <li> DB 설계 및 구축, controller 구현 (인원 : 4명) </li>
   <li> https://github.com/sinni16/FFRepo</li>
 </ul>
